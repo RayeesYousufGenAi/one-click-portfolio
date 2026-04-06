@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "name": "Alex Developer",
+    "tagline": "Full Stack Engineer & Open Source Advocate",
+    "avatar": "https://avatars.githubusercontent.com/u/9919?v=4",
+    "resume": "#",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "seo": {
+      "title": "Alex Developer — Portfolio",
+      "description": "The portfolio of Alex Developer, a full stack engineer.",
+      "og_image": ""
+    }
+  },
+  "socials": {
+    "github": "https://github.com/torvalds",
+    "linkedin": "https://linkedin.com/in/williamhgates",
+    "twitter": "https://twitter.com/elonmusk",
+    "email": "hello@example.com",
+    "website": ""
+  },
+  "about": "I build things for the web. I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products.",
+  "experience": [
+    {
+      "company": "Tech Giants Inc",
+      "role": "Senior Frontend Engineer",
+      "period": "2021 – Present",
+      "description": "Architected the core web application, improving performance by 40%. Led a team of 5 developers to deliver the new dashboard interface."
+    },
+    {
+      "company": "StartUp Labs",
+      "role": "Software Engineer",
+      "period": "2018 – 2021",
+      "description": "Developed features for the flagship mobile app using React Native. Integrated third-party APIs and optimized data fetching."
+    }
+  ],
+  "projects": [
+    {
+      "title": "One-Click Portfolio",
+      "description": "A viral GitHub repository where developers just fork, edit one JSON file, and get a live deployed portfolio.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://example.com/portfolio",
+      "repo": "https://github.com/username/one-click-portfolio",
+      "featured": true
+    },
+    {
+      "title": "AI Image Generator",
+      "description": "An open-source tool that acts as a wrapper around Stable Diffusion API to generate high-quality images from text descriptions.",
+      "tech": ["React", "Node.js", "Express"],
+      "demo": "https://example.com/ai-gen",
+      "repo": "https://github.com/username/ai-gen",
+      "featured": true
+    },
+    {
+      "title": "Terminal Theme Manager",
+      "description": "CLI tool to switch between terminal color schemes seamlessly.",
+      "tech": ["Rust", "CLI"],
+      "demo": "",
+      "repo": "https://github.com/username/term-manager",
+      "featured": false
+    }
+  ],
+  "skills": {
+    "Languages": ["TypeScript", "JavaScript (ES6+)", "Python", "HTML", "CSS", "Rust"],
+    "Frameworks": ["React", "Next.js", "Node.js", "Express", "Tailwind CSS"],
+    "Tools": ["Git", "GitHub Actions", "Docker", "Figma", "Postman"]
+  },
+  "education": [
+    {
+      "institution": "University of Technology",
+      "degree": "B.Sc. in Computer Science",
+      "period": "2014 – 2018"
+    }
+  ],
+  "theme": "dark"
+}
